@@ -1,0 +1,6 @@
+[submodule "basic-computer-science"]
+	path = basic-computer-science
+	url = https://github.com/agnoam/hit-basic-computer-science.git
+[submodule "advanced-programming"]
+	path = advanced-programming
+	url = https://github.com/agnoam/hit-advanced-programming.git
