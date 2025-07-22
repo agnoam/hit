@@ -6,3 +6,7 @@
 	path = advanced-programming
 	url = https://github.com/agnoam/hit-advanced-programming.git
 	branch = master
+[submodule "object-oriented-programming"]
+	path = object-oriented-programming
+	url = https://github.com/agnoam/hit-object-oriented-programming
+	branch = master
